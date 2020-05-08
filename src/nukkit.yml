@@ -1,0 +1,6 @@
+name: AutoCommandExecutor
+main: net.comorevi.np.ace.ACEPlugin
+api: ["1.0.9"]
+version: 1.0.0
+description: Execute configured command regularly.
+author: popkechupki

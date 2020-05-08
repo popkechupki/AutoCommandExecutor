@@ -1,0 +1,10 @@
+## Config version. DO NOT CHANGE.
+version: 1
+
+## Command settings
+## messageの部分は自由に変更できます。わかりやすい名前をつけてください。(YAMLの記法に違反しない程度に)
+## command...実行するコマンドを入力します。コマンドはコンソールから実行されたものとして処理されます。
+## interval...コマンドを実行する間隔を秒単位で入力します。
+message:
+  command: "say hello!"
+  interval: 10
